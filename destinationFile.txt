@@ -1,0 +1,8 @@
+Shalom,: 1
+my: 1
+name: 2
+is: 2
+Leore: 1
+and: 1
+his: 1
+Lior: 1
